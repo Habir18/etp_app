@@ -19,7 +19,7 @@ de déterminer l’ETP que si les températures sont inférieures à 38°C (Bonn
 
 ### Pour les températures inférieures à 26,5°C  
 La formule à utiliser dans ce cas est : 
-**ETP = 16*(10/𝑡)^a * K**
+**ETP = 16.(10/𝑡)^a.K**
   
 t : température moyenne mensuelle en °C 
 
@@ -29,7 +29,7 @@ i = ( 𝑡/5)^1,514
 
 a : fonction complexe de l’indice i ayant pour formule : 
 
-a = 6,75 ∗ 10^−7 ∗ 𝐼^3 − 7,71 ∗ 10^−5 ∗ 𝐼^2 + 1,79 ∗ 10^−2 ∗ 𝐼 + 0,49239  
+a = **6,75 . 10^−7 . 𝐼^3 − 7,71 . 10^−5 . 𝐼^2 + 1,79 ∗ 10^−2 . 𝐼 + 0,49239**  
 
 K : Coefficient de correction mensuelle qui est donné par une table et qui dépend de la latitude de la zone d’étude.
 
