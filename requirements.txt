@@ -1,3 +1,4 @@
-streamlit
-pandas
-numpy
+streamlit>=1.46.1
+pandas>=2.3.0
+numpy>=2.3.1
+openpyxl>=3.0.0  # <-- Ajoutez cette ligne !
